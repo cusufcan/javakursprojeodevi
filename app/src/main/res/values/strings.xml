@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JavaKursProjeOdevi</string>
+    <string name="add">Ekle</string>
+    <string name="save">Save</string>
+    <string name="year">Year</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="name">Name</string>
+    <string name="delete">Delete</string>
+</resources>
